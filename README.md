@@ -10,12 +10,12 @@ In the project directory, you can run:
 
 Runs the app in the development mode.<br />
 
-# react-native run-android
-# react-native start / npm start
+- react-native run-android
+- react-native start / npm start
 
 Runs the app in the production mode.<br />
 
-/android
+/android <br />
 #gradlew assembleRelease
 
 # ros_native
